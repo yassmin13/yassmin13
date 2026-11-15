@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Yassmine 👋
+3rd-year ICT student (Signal Processing & Multimedia) at the
+Faculty of Sciences of Tunis. I'm looking for a final-year project (PFE) internship.
 
-<!--
-**yassmin13/yassmin13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Areas of interest
+Telecommunications · Networking (Cisco) · Embedded Systems · Signal Processing · Programming
 
-Here are some ideas to get you started:
+## Tools
+Python · MATLAB · C · Cisco Packet Tracer · ESP32 · Raspberry Pi · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [MNIST KNN](https://colab.research.google.com/drive/1FTuyKWHUSVjlZMWuk2LHCv3FctBBZSWK?usp=sharing): handwritten digit recognition (91.6% accuracy)
+- [Temperature measurement](https://wokwi.com/projects/464756429466796033): Raspberry Pi + LM35 + MCP3208
+
+LinkedIn: www.linkedin.com/in/yesmin-boubaker-83b518324 · Email: boubakeryesmin@gmail.com
