@@ -6,7 +6,7 @@ Faculty of Sciences of Tunis. I'm looking for a final-year project (PFE) interns
 Telecommunications · Networking (Cisco) · Embedded Systems · Signal Processing · Programming
 
 ## Tools
-Python · MATLAB · C · Cisco Packet Tracer · ESP32 · Raspberry Pi 
+Python · MATLAB  · Cisco Packet Tracer · ESP32 · Raspberry Pi 
 
 ## Projects
 - [MNIST KNN](https://colab.research.google.com/drive/1FTuyKWHUSVjlZMWuk2LHCv3FctBBZSWK?usp=sharing): handwritten digit recognition (91.6% accuracy)
